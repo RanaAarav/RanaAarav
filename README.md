@@ -14,8 +14,8 @@ Computer Engineering graduate passionate about building scalable ML pipelines an
 - Optimizing embedded systems for edge AI
 - Contributing to open-source ML infrastructure
 
-### 📊 GitHub Stats
-![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanaAarav&show_icons=true&theme=radical)
+<!-- ### 📊 GitHub Stats -->
+<!-- ![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanaAarav&show_icons=true&theme=radical) -->
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarav-rana)
