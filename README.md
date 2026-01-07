@@ -1,4 +1,4 @@
-## 🚀 MLOps Engineer | Backend Systems Architect | IoT Enthusiast
+## 🚀 MLOps Engineer | Backend Systems
 
 Computer Engineering graduate passionate about building scalable ML pipelines and performance-optimized backend systems.
 
