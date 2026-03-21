@@ -13,7 +13,6 @@ Currently at **PaladinAI** engineering deepfake detection (98.9% accuracy) and s
 | [CIVO-Spin-AI-Agent](https://github.com/RanaAarav/CIVO-Spin-AI-Agent) | Replaced Docker with Wasm — 14.2s → 0.04s cold start (355×) | Rust · WebAssembly · K3s |
 | [Airbyte-Neo4j-GraphRAG](https://github.com/RanaAarav/Airbyte-Neo4j-GraphRAG) | Topology-aware RAG solving the graph gap in vector search | Python · Neo4j · LLMs |
 | [Blind-Spot-Detection](https://github.com/RanaAarav/Blind-Spot-Detection-Enhanced-with-IoT-and-ML) | Edge CV system on Raspberry Pi — 96.4% accuracy | Python · OpenCV · IoT |
-| Rovia *(in progress)* | Contextual AI robot with fine-tuned Mistral 7B + RAG | Python · LoRA/PEFT · Jetson Nano |
 
 ---
 
