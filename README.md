@@ -1,22 +1,40 @@
-## 🚀 MLOps Engineer | Backend Systems
+# Aarav Rana
 
-Computer Engineering graduate passionate about building scalable ML pipelines and performance-optimized backend systems.
+**Applied AI Engineer** — I build real-time ML systems in Rust and Python, from prototype to optimised inference.
 
-### 🔧 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+Currently at **PaladinAI** engineering deepfake detection (98.9% accuracy) and speaker diarization pipelines. I prototype fast in Python, ship an MVP, then go deep on inference optimisation — quantisation, Wasm runtimes, latency budgets.
 
-### 🎯 Current Focus
-- Building production-grade MLOps pipelines
-- Optimizing embedded systems for edge AI
-- Contributing to open-source ML infrastructure
+---
 
-<!-- ### 📊 GitHub Stats -->
-<!-- ![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanaAarav&show_icons=true&theme=radical) -->
+## What I'm building
 
-### 🔗 Connect With Me
+| Project | What it does | Stack |
+|---|---|---|
+| [CIVO-Spin-AI-Agent](https://github.com/RanaAarav/CIVO-Spin-AI-Agent) | Replaced Docker with Wasm — 14.2s → 0.04s cold start (355×) | Rust · WebAssembly · K3s |
+| [Airbyte-Neo4j-GraphRAG](https://github.com/RanaAarav/Airbyte-Neo4j-GraphRAG) | Topology-aware RAG solving the graph gap in vector search | Python · Neo4j · LLMs |
+| [Blind-Spot-Detection](https://github.com/RanaAarav/Blind-Spot-Detection-Enhanced-with-IoT-and-ML) | Edge CV system on Raspberry Pi — 96.4% accuracy | Python · OpenCV · IoT |
+| Rovia *(in progress)* | Contextual AI robot with fine-tuned Mistral 7B + RAG | Python · LoRA/PEFT · Jetson Nano |
+
+---
+
+## Stack
+
+**Languages** — Rust · Python · C++ · SQL · WebAssembly (WASI/Spin) · SwiftUI  
+**AI & ML** — PyTorch · TensorFlow · CNN-ViT · Speaker Diarization · GraphRAG · LoRA/PEFT · VLMs · Deep RL  
+**Inference & Opt** — GGUF/AWQ · TensorRT · CoreML · Metal (Apple Silicon) · Wasm Runtimes  
+**Infra** — Docker · K3s · SpinKube · FastAPI · OpenCV · CI/CD · Linux  
+
+---
+
+## Writing
+
+I write about systems and AI on Dev.to — the posts that get traction are the ones with real benchmark numbers.
+
+- [Serverless AI Agents on Civo: Replacing Docker with Wasm and Rust](https://dev.to/devnotes/serverless-ai-agents-on-civo-replacing-docker-with-webassembly-spin-and-rust-20ch)
+- [GraphRAG Pipeline: Airbyte Ingestion to Neo4j Knowledge Graph](https://dev.to/devnotes/graphrag-pipeline-airbyte-ingestion-to-neo4j-knowledge-graph-3h3f)
+
+---
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarav-rana)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/devnotes)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaravrana@outlook.com)
