@@ -1,6 +1,6 @@
 # Aarav Rana
 
-**Applied AI Engineer** — I build real-time ML systems in Rust and Python, from prototype to optimised inference.
+**Applied AI Engineer** - I build real-time ML systems in Rust and Python, from prototype to optimised inference.
 
 Currently at **PaladinAI** engineering deepfake detection (98.9% accuracy) and speaker diarization pipelines. I prototype fast in Python, ship an MVP, then go deep on inference optimisation — quantisation, Wasm runtimes, latency budgets.
 
@@ -27,7 +27,7 @@ Currently at **PaladinAI** engineering deepfake detection (98.9% accuracy) and s
 
 ## Writing
 
-I write about systems and AI on Dev.to — the posts that get traction are the ones with real benchmark numbers.
+I write about systems and AI on Dev.to
 
 - [Serverless AI Agents on Civo: Replacing Docker with Wasm and Rust](https://dev.to/devnotes/serverless-ai-agents-on-civo-replacing-docker-with-webassembly-spin-and-rust-20ch)
 - [GraphRAG Pipeline: Airbyte Ingestion to Neo4j Knowledge Graph](https://dev.to/devnotes/graphrag-pipeline-airbyte-ingestion-to-neo4j-knowledge-graph-3h3f)
