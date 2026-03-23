@@ -1,8 +1,8 @@
 # Aarav Rana
 
-**Applied AI Engineer** - I build real-time ML systems in Rust and Python, from prototype to optimised inference.
+**Applied AI Engineer** – I build real-time ML systems in Rust and Python, from prototype to optimised inference.
 
-Currently at **PaladinAI** engineering deepfake detection (98.9% accuracy) and speaker diarization pipelines. I prototype fast in Python, ship an MVP, then go deep on inference optimisation — quantisation, Wasm runtimes, latency budgets.
+Currently at **PaladinAI** engineering deepfake detection (98.9% accuracy) and speaker diarization pipelines. I prototype fast in Python, ship an MVP, then go deep on inference optimisation – quantisation, Wasm runtimes, latency budgets.
 
 ---
 
@@ -10,18 +10,18 @@ Currently at **PaladinAI** engineering deepfake detection (98.9% accuracy) and s
 
 | Project | What it does | Stack |
 |---|---|---|
-| [CIVO-Spin-AI-Agent](https://github.com/RanaAarav/CIVO-Spin-AI-Agent) | Replaced Docker with Wasm — 14.2s → 0.04s cold start (355×) | Rust · WebAssembly · K3s |
+| [CIVO-Spin-AI-Agent](https://github.com/RanaAarav/CIVO-Spin-AI-Agent) | Replaced Docker with Wasm – 14.2s → 0.04s cold start (355×) | Rust · WebAssembly · K3s |
 | [Airbyte-Neo4j-GraphRAG](https://github.com/RanaAarav/Airbyte-Neo4j-GraphRAG) | Topology-aware RAG solving the graph gap in vector search | Python · Neo4j · LLMs |
-| [Blind-Spot-Detection](https://github.com/RanaAarav/Blind-Spot-Detection-Enhanced-with-IoT-and-ML) | Edge CV system on Raspberry Pi — 96.4% accuracy | Python · OpenCV · IoT |
+| [Blind-Spot-Detection](https://github.com/RanaAarav/Blind-Spot-Detection-Enhanced-with-IoT-and-ML) | Edge CV system on Raspberry Pi – 96.4% accuracy | Python · OpenCV · IoT |
 
 ---
 
 ## Stack
 
-**Languages** — Rust · Python · C++ · SQL · WebAssembly (WASI/Spin) · SwiftUI  
-**AI & ML** — PyTorch · TensorFlow · CNN-ViT · Speaker Diarization · GraphRAG · LoRA/PEFT · VLMs · Deep RL  
-**Inference & Opt** — GGUF/AWQ · TensorRT · CoreML · Metal (Apple Silicon) · Wasm Runtimes  
-**Infra** — Docker · K3s · SpinKube · FastAPI · OpenCV · CI/CD · Linux  
+**Languages** – Rust · Python · C++ · SQL · WebAssembly (WASI/Spin) · SwiftUI  
+**AI & ML** – PyTorch · TensorFlow · CNN-ViT · Speaker Diarization · GraphRAG · LoRA/PEFT · VLMs · Deep RL  
+**Inference & Opt** – GGUF/AWQ · TensorRT · CoreML · Metal (Apple Silicon) · Wasm Runtimes  
+**Infra** – Docker · K3s · SpinKube · FastAPI · OpenCV · CI/CD · Linux  
 
 ---
 
